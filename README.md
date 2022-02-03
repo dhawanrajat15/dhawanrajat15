@@ -2,6 +2,8 @@
 - I’m interested in Data Science
 - I’m currently learning R,Python and SQL
 - I’m looking to collaborate on Data Science projects with Large dataset processing and analysis
+- I develop automated frameworks to process data in automobile industry
+- I love creating Dashboards!
 - dhawanrajat15@gmail.com
 
 <!---
