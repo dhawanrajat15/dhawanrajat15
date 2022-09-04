@@ -4,7 +4,6 @@
 - I’m looking to collaborate on Data Science projects with Large dataset processing and analysis
 - I develop automated frameworks to process data in automobile industry
 - I love creating Dashboards!
-- dhawanrajat15@gmail.com
 
 <!---
 dhawanrajat15/dhawanrajat15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
